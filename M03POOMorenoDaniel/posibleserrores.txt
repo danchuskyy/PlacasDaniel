@@ -1,0 +1,30 @@
+Listo: Número de paràmetres incorrecte.\nÚs: addCasa [nif] [nom] [superficie]
+Listo: Superficie incorrecta. Ha de ser més gran de 10.
+Listo: Ja hi ha una casa registrada amb aquest nif
+Listo: Número de paràmetres incorrecte.\nÚs: addPlaca [nif] [superficie] [preu] [potència]
+Listo: No hi ha cap casa registrada amb aquest nif.
+Listo: Superfície incorrecta. Ha de ser més gran de 0.
+ERROR: No hi ha espai disponible per a instal·lar aquesta placa.
+Listo: Preu incorrecte. Ha de ser més gran de 0.
+Listo: Potència incorrecte. Ha de ser més gran de 0.
+Listo: Número de paràmetres incorrecte.\nÚs: addAparell [nif] [descripció] [potència]
+Listo: No hi ha cap casa registrada amb aquest nif.
+ERROR: Ja existeix un aparell amb aquesta descripció a la casa indicada.
+Listo: Potència incorrecte. Ha de ser més gran de 0.
+ERROR: Número de paràmetres incorrecte.\nÚs: onCasa [nif]
+Listo: No hi ha cap casa registrada amb aquest nif.
+Listo: La casa ja té l'interruptor encès.
+Listo: Número de paràmetres incorrecte \nÚs: onAparell [nif] [descripció aparell]
+Listo: No hi ha cap casa registrada amb aquest nif.
+Listo: No hi ha cap aparell registrat amb aquesta descripció a la casa indicada.
+Listo: L'aparell ja està encès.
+ERROR: No es pot encendre l'aparell. L'interruptor general està apagat.
+ERROR: Han saltat els ploms. La casa ha quedat completament apagada.
+Listo: Número de paràmetres incorrecte.\nÚs: offAparell [nif] [descripció aparell]
+Listo: No hi ha cap casa registrada amb aquest nif.
+ERROR: No hi ha cap aparell registrat amb aquesta descripció a la casa indicada.
+Listo: L'aparell ja està apagat.
+Listo: Número de paràmetres incorrecte.\nÚs: list
+Listo: Número de paràmetres incorrecte.\nÚs: info [nif]
+Listo: No hi ha cap casa registrada amb aquest nif.
+Listo: Número de paràmetres incorrecte.\nÚs: quit
